@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "name": "APTex",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "/"
+                },
+                "row+0": {
+                    "col+0": "r"
+                },
+                "row+1": {
+                    "col+0": "x"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "w"
+                },
+                "row+0": {
+                    "col+0": "s"
+                },
+                "row+1": {
+                    "col+0": "c"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "g"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "m"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "d",
+                    "col+1": "b"
+                },
+                "row+0": {
+                    "col+0": "h",
+                    "col+1": "v"
+                },
+                "row+1": {
+                    "col+0": "k",
+                    "col+1": "q"
+                }
+            },
+            "thumb": {
+                "row+0": {
+                    "col+0": "e"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "j",
+                    "col+0": "f"
+                },
+                "row+0": {
+                    "col-1": "y",
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col-1": "z",
+                    "col+0": "p"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "'"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": ","
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": ";"
+                },
+                "row+0": {
+                    "col+0": "l"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            }
+        }
+    }
+}

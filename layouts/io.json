@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "name": "io",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": ","
+                },
+                "row+0": {
+                    "col+0": "x"
+                },
+                "row+1": {
+                    "col+0": "z"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "."
+                },
+                "row+0": {
+                    "col+0": "w"
+                },
+                "row+1": {
+                    "col+0": "v"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "p"
+                },
+                "row+0": {
+                    "col+0": "m"
+                },
+                "row+1": {
+                    "col+0": "f"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "u",
+                    "col+1": "t"
+                },
+                "row+0": {
+                    "col+0": "n",
+                    "col+1": "o"
+                },
+                "row+1": {
+                    "col+0": "y",
+                    "col+1": "e"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "s",
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col-1": "h",
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col-1": "i",
+                    "col+0": "r"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "g"
+                },
+                "row+0": {
+                    "col+0": "d"
+                },
+                "row+1": {
+                    "col+0": "c"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "'"
+                },
+                "row+0": {
+                    "col+0": "b"
+                },
+                "row+1": {
+                    "col+0": "j"
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": ";"
+                },
+                "row+0": {
+                    "col+0": "q"
+                },
+                "row+1": {
+                    "col+0": "k"
+                }
+            }
+        }
+    }
+}

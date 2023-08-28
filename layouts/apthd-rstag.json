@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "name": "apthd-rstag",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "x"
+                },
+                "row+0": {
+                    "col+0": "r"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "c"
+                },
+                "row+0": {
+                    "col+0": "s"
+                },
+                "row+1": {
+                    "col+0": "v"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "y"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "g"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "d",
+                    "col+1": "b"
+                },
+                "row+0": {
+                    "col+0": "h",
+                    "col+1": "k"
+                },
+                "row+1": {
+                    "col+0": "f",
+                    "col+1": "p",
+                    "col+2": "q"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "z",
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col-1": "j",
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col-1": "w",
+                    "col+0": "m"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "e"
+                },
+                "row+1": {
+                    "col+0": ","
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": "'"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "/"
+                }
+            }
+        }
+    }
+}

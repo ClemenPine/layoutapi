@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "name": "Doerak",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "j"
+                },
+                "row+0": {
+                    "col+0": "g"
+                },
+                "row+1": {
+                    "col+0": "c"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": ","
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "'",
+                    "col+1": "q"
+                },
+                "row+0": {
+                    "col+0": "e",
+                    "col+1": "x"
+                },
+                "row+1": {
+                    "col+0": "y",
+                    "col+1": ";"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "z",
+                    "col+0": "v"
+                },
+                "row+0": {
+                    "col-1": "b",
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col-1": "p",
+                    "col+0": "m"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "r"
+                },
+                "row+0": {
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col+0": "f"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "s"
+                },
+                "row+0": {
+                    "col+0": "d"
+                },
+                "row+1": {
+                    "col+0": "k"
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": "h"
+                },
+                "row+0": {
+                    "col+0": "l"
+                },
+                "row+1": {
+                    "col+0": "w"
+                }
+            }
+        }
+    }
+}

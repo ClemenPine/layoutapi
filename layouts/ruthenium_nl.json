@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "name": "ruthenium_nl",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "w"
+                },
+                "row+0": {
+                    "col+0": "r"
+                },
+                "row+1": {
+                    "col+0": "z"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "d"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "k"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col+0": "m"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "c",
+                    "col+1": "x"
+                },
+                "row+0": {
+                    "col+0": "s",
+                    "col+1": "g"
+                },
+                "row+1": {
+                    "col+0": "b",
+                    "col+1": "v"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "q",
+                    "col+0": "p"
+                },
+                "row+0": {
+                    "col-1": "y",
+                    "col+0": "h"
+                },
+                "row+1": {
+                    "col-1": "j",
+                    "col+0": "f"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "'"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "e"
+                },
+                "row+1": {
+                    "col+0": ";"
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": ","
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            }
+        }
+    }
+}

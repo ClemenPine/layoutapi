@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "name": "curtsy",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "g"
+                },
+                "row+0": {
+                    "col+0": "c"
+                },
+                "row+1": {
+                    "col+0": "w"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col+0": "r"
+                },
+                "row+1": {
+                    "col+0": "q"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "d"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "m"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "v",
+                    "col+1": "x"
+                },
+                "row+0": {
+                    "col+0": "s",
+                    "col+1": "y"
+                },
+                "row+1": {
+                    "col+0": "f",
+                    "col+1": "z"
+                }
+            },
+            "thumb": {
+                "row+0": {
+                    "col+0": "k",
+                    "col+1": "h"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "j",
+                    "col+0": "p"
+                },
+                "row+0": {
+                    "col-1": "b",
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col-1": "/",
+                    "col+0": ","
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "'"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            },
+            "pinky": {
+                "row+0": {
+                    "col+0": "e"
+                }
+            }
+        }
+    }
+}

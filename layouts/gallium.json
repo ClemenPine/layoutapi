@@ -1,0 +1,107 @@
+{
+    "meta": {
+        "name": "gallium",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "b"
+                },
+                "row+0": {
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col+0": "q"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col+0": "r"
+                },
+                "row+1": {
+                    "col+0": "x"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "d"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "m"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "c",
+                    "col+1": "v"
+                },
+                "row+0": {
+                    "col+0": "s",
+                    "col+1": "g"
+                },
+                "row+1": {
+                    "col+0": "w",
+                    "col+1": "j"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "z",
+                    "col+0": "y"
+                },
+                "row+0": {
+                    "col-1": "f",
+                    "col+0": "h"
+                },
+                "row+1": {
+                    "col-1": "k",
+                    "col+0": "p"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "'"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col+0": "e"
+                },
+                "row+1": {
+                    "col+0": ";"
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": ","
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            }
+        }
+    }
+}

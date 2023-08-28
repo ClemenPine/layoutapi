@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "name": "TAHAN",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "t"
+                },
+                "row+0": {
+                    "col+0": "q"
+                },
+                "row+1": {
+                    "col+0": "m"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "a"
+                },
+                "row+0": {
+                    "col+0": "v"
+                },
+                "row+1": {
+                    "col+0": "f"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "h"
+                },
+                "row+0": {
+                    "col+0": "g"
+                },
+                "row+1": {
+                    "col+0": "e"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "z",
+                    "col+1": "y"
+                },
+                "row+0": {
+                    "col+0": "r",
+                    "col+1": "s"
+                },
+                "row+1": {
+                    "col+0": "c",
+                    "col+1": "d"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "x",
+                    "col+0": "u"
+                },
+                "row+0": {
+                    "col-1": "n",
+                    "col+0": "k"
+                },
+                "row+1": {
+                    "col-1": "j",
+                    "col+0": "'"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "i"
+                },
+                "row+0": {
+                    "col+0": "b"
+                },
+                "row+1": {
+                    "col+0": ";"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "o"
+                },
+                "row+0": {
+                    "col+0": "l"
+                },
+                "row+1": {
+                    "col+0": "/"
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": "p",
+                    "col+1": "."
+                },
+                "row+0": {
+                    "col+0": "w",
+                    "col+1": ","
+                },
+                "row+1": {
+                    "col+0": "-"
+                }
+            }
+        }
+    }
+}

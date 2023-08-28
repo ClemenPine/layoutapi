@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "name": "Neo",
+        "source": "",
+        "authors": []
+    },
+    "keys": {
+        "left": {
+            "pinky": {
+                "row-1": {
+                    "col+0": "x"
+                },
+                "row+0": {
+                    "col+0": "u"
+                },
+                "row+1": {
+                    "col+0": "\u00fc"
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "v"
+                },
+                "row+0": {
+                    "col+0": "i"
+                },
+                "row+1": {
+                    "col+0": "\u00f6"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "l"
+                },
+                "row+0": {
+                    "col+0": "a"
+                },
+                "row+1": {
+                    "col+0": "\u00e4"
+                }
+            },
+            "index": {
+                "row-1": {
+                    "col+0": "c",
+                    "col+1": "w"
+                },
+                "row+0": {
+                    "col+0": "e",
+                    "col+1": "o"
+                },
+                "row+1": {
+                    "col+0": "p",
+                    "col+1": "z"
+                }
+            }
+        },
+        "right": {
+            "index": {
+                "row-1": {
+                    "col-1": "k",
+                    "col+0": "h"
+                },
+                "row+0": {
+                    "col-1": "s",
+                    "col+0": "n"
+                },
+                "row+1": {
+                    "col-1": "b",
+                    "col+0": "m"
+                }
+            },
+            "middle": {
+                "row-1": {
+                    "col+0": "g"
+                },
+                "row+0": {
+                    "col+0": "r"
+                },
+                "row+1": {
+                    "col+0": ","
+                }
+            },
+            "ring": {
+                "row-1": {
+                    "col+0": "f"
+                },
+                "row+0": {
+                    "col+0": "t"
+                },
+                "row+1": {
+                    "col+0": "."
+                }
+            },
+            "pinky": {
+                "row-1": {
+                    "col+0": "q",
+                    "col+1": "\u00df",
+                    "col+2": "'"
+                },
+                "row+0": {
+                    "col+0": "d",
+                    "col+1": "y"
+                },
+                "row+1": {
+                    "col+0": "j"
+                }
+            }
+        }
+    }
+}
